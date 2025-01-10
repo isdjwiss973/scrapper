@@ -218,7 +218,7 @@ def check_bin(bin_number):
               
                 message = (
                     "╭────────────────────╮\n"
-                    "     ⚡ Nᴀʀᴜᴛᴏ  Sᴄᴀʀᴘᴘᴇʀ ⚡     \n"
+                    "   ⚡ SHAFIN SCRAPPER ⚡     \n"
                     "╰────────────────────╯\n"
                 )
 
